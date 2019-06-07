@@ -1,2 +1,4 @@
-import pygame
+def test():
+  print("Currently testing this website")
+  return
 
